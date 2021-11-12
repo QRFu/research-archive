@@ -1,0 +1,5 @@
+library(SSDbain)
+SSDANOVA(hyp1="mu1=mu2=mu3",hyp2="mu1>mu2>mu3",type="equal",f1=0,f2=0.25,var=NULL,BFthresh=10,eta=0.9,T=10000,seed=10)
+SSDANOVA(hyp1="mu1=mu2=mu3",hyp2="mu1>mu2>mu3",type="equal",f1=0,f2=0.25,var=NULL,BFthresh=3,eta=0.8,T=10000,seed=10)
+SSDANOVA(hyp1="mu1=mu2=mu3",hyp2="mu1>mu2>mu3",type="equal",f1=0,f2=0.25,var=NULL,BFthresh=5,eta=0.9,T=10000,seed=10)
+SSDANOVA(hyp1="mu1=mu2=mu3",hyp2="mu1>mu2>mu3",type="equal",f1=0,f2=0.25,var=NULL,BFthresh=2,eta=0.9,T=10000,seed=10)
