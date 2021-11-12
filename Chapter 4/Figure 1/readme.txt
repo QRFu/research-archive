@@ -1,0 +1,1 @@
+The file BFdistribution.r is used to produce Figure 1.

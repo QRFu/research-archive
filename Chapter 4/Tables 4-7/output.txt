@@ -1,0 +1,31 @@
+The final sample size is N=146
+ eta01  eta10 
+0.9727 0.8029 
+
+#####Sensitive analysis 2*b#####
+The final sample size is N=120
+ eta01  eta10 
+0.9182 0.8038 
+
+#####Sensitive analysis 3*b#####
+The final sample size is N=105
+ eta01  eta10 
+0.8405 0.8063 
+
+
+
+Hypothesis:
+beta1=beta2=beta3=0 vs Ha
+
+
+BFthreth:
+3
+
+
+eta:
+0.8
+
+
+
+
+
