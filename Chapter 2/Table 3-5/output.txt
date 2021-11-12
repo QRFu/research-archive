@@ -1,0 +1,39 @@
+populations used for simulating data (T= 10000  variances= equal) 
+ 
+ H0: mu1 is equal to mu2   H1: mu1 is not equal to mu2 
+ 
+      mu1=mu2=0              mu1=0.2  mu2=0
+ var1=1  var2=1          var1=1  var2=1
+ 
+Using N=769 and b 
+ 
+ 
+P(BF01>3) P(BF10>3) 
+   0.9767    0.8037 
+ 
+ 
+Using N=722 and 2b 
+ 
+ 
+P(BF01>3) P(BF10>3) 
+   0.9628    0.8012 
+ 
+ 
+Using N=699 and 3b 
+ 
+ 
+P(BF01>3) P(BF10>3) 
+   0.9523    0.8042 
+ 
+
+
+Hypothesis:
+two-sided
+
+
+BFthresh:
+3
+
+
+eta:
+0.8
