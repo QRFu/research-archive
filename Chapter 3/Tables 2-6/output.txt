@@ -1,0 +1,95 @@
+#####Sensitive analysis b#####
+Hypothesis: H1: mu1=mu2=mu3 vs H2: Ha
+Type: ANOVA
+
+The sample size is N=93
+P(BF12>3|H1)=0.9765
+P(BF21>3|H2)=0.8008
+
+
+#####Sensitive analysis 2*b#####
+
+The sample size is N=83
+P(BF12>3|H1)=0.949
+P(BF21>3|H2)=0.8024
+
+
+#####Sensitive analysis 3*b#####
+The sample size is N=77
+P(BF12>3|H1)=0.9176
+P(BF21>3|H2)=0.8023
+
+BFthresh:
+3
+
+
+eta:
+0.8
+
+
+
+#####Sensitive analysis b#####
+Hypothesis: H1: mu1=mu2=mu3 vs H2: Ha
+Type: Welch's ANOVA
+
+The sample size is N=102
+P(BF12>3|H1)=0.9787
+P(BF21>3|H2)=0.8024
+
+
+
+#####Sensitive analysis 2*b#####
+
+
+The sample size is N=90
+P(BF12>3|H1)=0.95
+P(BF21>3|H2)=0.802
+
+
+
+
+#####Sensitive analysis 3*b#####
+
+The sample size is N=83
+P(BF12>3|H1)=0.9231
+P(BF21>3|H2)=0.8049
+
+
+BFthresh:
+3
+
+
+eta:
+0.8
+
+
+
+
+#####Sensitive analysis b#####
+Hypothesis: H1: mu1=mu2=mu3 vs H2: Ha
+Type: robust ANOVA
+
+The sample size is N=120
+P(BF12>3|H1)=0.9807
+P(BF21>3|H2)=0.8139
+
+#####Sensitive analysis 2*b#####
+
+
+The sample size is N=105
+P(BF12>3|H1)=0.9579
+P(BF21>3|H2)=0.8039
+
+#####Sensitive analysis 3*b#####
+
+The sample size is N=100
+P(BF12>3|H1)=0.9307
+P(BF21>3|H2)=0.8175
+
+
+
+BFthresh:
+3
+
+eta:
+0.8

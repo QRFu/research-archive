@@ -1,0 +1,1 @@
+Figure 1 is produced based on the code in file BFdistribution_ANOVA.R 

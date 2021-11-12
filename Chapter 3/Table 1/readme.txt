@@ -1,0 +1,1 @@
+this r file is used to produce the results in Table 1.
